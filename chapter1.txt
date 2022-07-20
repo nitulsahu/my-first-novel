@@ -1,0 +1,32 @@
+PS FailOver: 
+The required Jar and war Files are as follow:
+
+Jar Files: 
+
+1. slf4j-api-1.7.26.jar
+2. slf4j-simple-1.7.22.jar
+3. opensaml-2.6.0.jar
+4. openws-1.5.0.jar
+5. esapi-2.0.1.jar
+6. joda-time-2.9.7.jar
+7. xmlsec-2.0.7.jar;
+8. xmltooling-1.4.0.jar
+9. failover.jar
+
+War files:
+
+ps-ebx-healthcheck.war
+---------------------------------------------------------
+
+SSO: 
+The required Jar and war Files are as follow:
+
+Jar Files:
+joda-time-2.9.4.jar
+slf4j-api-1.7.21.jar
+slf4j-simple-1.7.22.jar
+xmlsec-2.0.7.jar
+xmltooling-1.4.0.jar
+openws-1.5.0.jar
+opensaml-2.6.0.jar
+	
